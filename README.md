@@ -1,5 +1,5 @@
 # hello-world
-My first repository! (Also a tutorial)
+My tutorial repository!
 
 Bio:
 Hello! My name is Emmy and I've recently made the decision to study web design and development. 
